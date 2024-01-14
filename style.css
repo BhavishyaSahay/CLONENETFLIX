@@ -214,20 +214,21 @@ input[type="radio"]{
 
 }
 /* ------ media querie for small sceen-----*/
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 624px){
     .logo{
-        width: 80px;
+        width: 250px;
     }
     nav button{
-        padding: 5px 10px;
+        padding: px 10px;
+        margin-right: 10px;
     }
     nav .lang-button{
-        padding: 4px 8px;
+        padding: px 10px;
     }
     .header-content{
         position: unset;
         transform: none;
-        padding-top: 150px;
+        padding-top: 15px;
     }
     .header-content{
         font-size: 30px;
