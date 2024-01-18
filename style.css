@@ -214,7 +214,7 @@ input[type="radio"]{
 
 }
 /* ------ media querie for small sceen-----*/
-@media only screen and (max-width: 624px){
+@media only screen and (max-width: 595px){
     .logo{
         width: 250px;
     }
